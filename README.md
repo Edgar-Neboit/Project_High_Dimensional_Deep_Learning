@@ -1,3 +1,3 @@
-# Project High Dimensional Deep Learning
+Le notebook **ViT_vs_CNN.ipynb** tente de répondre aux consignes du projet 3. Le notebook utilise les fonctions qui sont dans les différents fichier **.py** du dossier.
 
-Git repo of the project of the course High Dimensional Deep Learning at INSA Toulouse in final years. 
+Ressources : https://github.com/topics/vision-transformer-image-classification. 
